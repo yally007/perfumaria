@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background: #BBBBBB;
+    background: #19181a;
     padding: 20px 0;
 }
 
@@ -66,7 +66,7 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: #000000;
+    color: #161617;
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -128,7 +128,7 @@ main {
 
 .beneficios {
     padding: 3em 0;
-    background: #888888;
+    background: #19181a;
 }
 
 .conteudo-beneficios {
@@ -229,7 +229,7 @@ table {
 }
 
 thead {
-    background: #555555;
+    background: #19181a;
     color: white;
     font-weight: bold;
 }
@@ -241,7 +241,7 @@ td, th {
 
 .mapa {
     padding: 3em 0;
-    background-color: linear-gradient(#FEFEFE, #888888);
+    background-color: linear-gradient(#FEFEFE, #19181a);
 }
 
 .mapa p {
