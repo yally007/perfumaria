@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    background: #19181a;
+    background: #4e4b50;
     padding: 20px 0;
 }
 
@@ -128,7 +128,7 @@ main {
 
 .beneficios {
     padding: 3em 0;
-    background: #19181a;
+    background: #18181a;
 }
 
 .conteudo-beneficios {
@@ -158,7 +158,7 @@ main {
     width: 60%;
     opacity: 1;
     transition: 400ms;
-    box-shadow: 10px 10px 10px 0 #000000;
+    box-shadow: 10px 10px 10px 0 #ffffff;
 }
 
 .imagem-beneficios:hover {
