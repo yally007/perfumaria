@@ -1,0 +1,51 @@
+header {
+    background: #4e4b50;
+    padding: 20px 0;
+}
+
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
+ <header>
+        <div class="caixa">
+            <h1><img src="img/vector-premium-luxuoso-perfume-logo-l_778302-690.avif" width="180" height="200"></h1>
+
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <header>
+		<div class="caixa">
+			<h1 class="logo"> <img class="titulo-principal" src="img/vector-premium-luxuoso-perfume-logo-l_778302-690.avif" width="180" height="200">Le Beau Couple</h1> 
+
+			
+			<nav>
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="produtos.html">Produtos</a></li>
+					<li><a href="contato.html">Contato</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+
+     <header>
+        <div class="caixa">
+            <h1><img src="img/vector-premium-luxuoso-perfume-logo-l_778302-690.avif" width="180" height="200" ></h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href="contato.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>

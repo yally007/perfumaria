@@ -1,3 +1,7 @@
+  @import url(/styles/hearder.css);
+  @import url(/styles/footer.css);
+  @import url(/styles/produtos.css);
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -194,11 +198,7 @@ form input {
     margin: 20px 0;
 }
 
-footer {
-    text-align: center;
-    background: url("img/bg.jpg");
-    padding: 40px 0;
-}
+
 
 .copyright {
     color: #000000;
